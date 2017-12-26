@@ -46,11 +46,11 @@ Things you may have wanted to ask your Muslim Employee.
 
 ### <a name="whatsdifferent"></a> What's so different about a Muslim Employee?
 
-        _Not much, when it comes to work, ethics, expectations_
+_Not much, when it comes to work, ethics, expectations_
 
 ### <a name="whatsmuslim"></a> What, exactly, _is_ a Muslim?
 
-        _Defined by belief. Sometimes belief requires performance of rites_
+_Defined by belief. Sometimes belief requires performance of rites_
 
 ### <a name="uniform"></a> Is there a Muslim uniform?
 
@@ -138,5 +138,8 @@ Things you may have wanted to ask your Muslim Employee.
 
 ### <a name="abuse"></a> The new hire says she can't work with male customers
 
+---
 
+## Contributors
 
+- FirstName LastName
